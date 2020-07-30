@@ -1,0 +1,13 @@
+F:\nick\code\vs2019\calculatorMenagerie\bin\Debug\netcoreapp3.1\calculatorMenagerie.exe
+F:\nick\code\vs2019\calculatorMenagerie\bin\Debug\netcoreapp3.1\calculatorMenagerie.deps.json
+F:\nick\code\vs2019\calculatorMenagerie\bin\Debug\netcoreapp3.1\calculatorMenagerie.runtimeconfig.json
+F:\nick\code\vs2019\calculatorMenagerie\bin\Debug\netcoreapp3.1\calculatorMenagerie.runtimeconfig.dev.json
+F:\nick\code\vs2019\calculatorMenagerie\bin\Debug\netcoreapp3.1\calculatorMenagerie.dll
+F:\nick\code\vs2019\calculatorMenagerie\bin\Debug\netcoreapp3.1\calculatorMenagerie.pdb
+F:\nick\code\vs2019\calculatorMenagerie\obj\Debug\netcoreapp3.1\calculatorMenagerie.csprojAssemblyReference.cache
+F:\nick\code\vs2019\calculatorMenagerie\obj\Debug\netcoreapp3.1\calculatorMenagerie.AssemblyInfoInputs.cache
+F:\nick\code\vs2019\calculatorMenagerie\obj\Debug\netcoreapp3.1\calculatorMenagerie.AssemblyInfo.cs
+F:\nick\code\vs2019\calculatorMenagerie\obj\Debug\netcoreapp3.1\calculatorMenagerie.csproj.CoreCompileInputs.cache
+F:\nick\code\vs2019\calculatorMenagerie\obj\Debug\netcoreapp3.1\calculatorMenagerie.dll
+F:\nick\code\vs2019\calculatorMenagerie\obj\Debug\netcoreapp3.1\calculatorMenagerie.pdb
+F:\nick\code\vs2019\calculatorMenagerie\obj\Debug\netcoreapp3.1\calculatorMenagerie.genruntimeconfig.cache
